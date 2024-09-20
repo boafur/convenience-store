@@ -1,0 +1,6 @@
+quarters,dimes,nickels,pennies,changeneeded,assertisenoughchange
+2,100,0,0,14.11,false
+0,0,20,5,0.75,true
+30,40,20,5,12.55,true
+10,0,0,50,3.85,false
+1,0,5,219,19.99,false
