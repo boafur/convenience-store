@@ -21,7 +21,7 @@ the **quarters**, **dimes**, **nickels**, **pennies** fields are how many of eac
 **assertisenoughchange** is whether this test case has enough change to cover the required amount
 
 ---
-## prompt:
+## prompt, [from slothbytes weekly](https://slothbytes.beehiiv.com/):
 
 Given a **total due** and **an array** representing **the amount of change in your pocket**, determine **whether or not you are able to pay for the item.**
 
